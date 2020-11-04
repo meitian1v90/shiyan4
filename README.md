@@ -20,7 +20,7 @@
 ### 2.在Graduate类中写出研究生应有的属性及学费和工资的算法并实现两个接口中的方法
 ### 3.在test中写出纳税额的算法输入月工资和学费，经过计算输出结果
 ## 五、核心代码
-'''
+```
 package gongzi;
 
 public class Graduate implements StudentInterface, TeacherInterface{
@@ -56,4 +56,4 @@ public class Graduate implements StudentInterface, TeacherInterface{
     }
 
 }
-'''
+```
