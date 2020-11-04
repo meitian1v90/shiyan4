@@ -58,6 +58,6 @@ public class Graduate implements StudentInterface, TeacherInterface{
 }
 ```
 ## 六、实验截图
-![](shiyan4.png)
+![](实验4.png)
 ## 七、实验感想
 #### 通过此次实验使我对interface定义接口，implement实现接口有的一定了解
